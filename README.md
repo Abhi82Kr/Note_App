@@ -17,3 +17,15 @@ Delete Notes: Remove unnecessary or outdated notes from the app with a simple de
 View Notes: Quickly view note details, allowing users to access their stored information conveniently and efficiently.
 
 
+![Screenshot 2024-09-16 120841](https://github.com/user-attachments/assets/aea5bf08-e110-4ddf-9976-05a8fc0af2cc)
+
+![Screenshot 2024-09-16 120852](https://github.com/user-attachments/assets/937926be-c545-4b85-bf02-c24d68e474ce)
+
+
+![Screenshot 2024-09-16 120911](https://github.com/user-attachments/assets/0febc350-ef37-40c4-9e69-b833a1f20fb3)
+
+![Screenshot 2024-09-16 120923](https://github.com/user-attachments/assets/53e51d42-80ee-4c56-9fda-4cf811f667a9)
+
+
+
+
