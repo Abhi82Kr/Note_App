@@ -1,9 +1,4 @@
-# Note_App
-
-
-Memory updated
-Here’s the updated content for your Note Management App based on the employee management app description:
-
+# Note_App using MVVM (Model-View-ViewModel)
 About the App:
 The Note Management App is a versatile and user-friendly solution designed to help users efficiently manage their personal or professional notes. This application enables users to add, view, edit, and delete notes with ease, providing a streamlined and organized experience.
 
